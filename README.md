@@ -1,8 +1,9 @@
 # Boas vindas ao repositório do projeto Movie Cards Library!
 
 ### Habilidades Desenvolvidas neste projeto
+Neste projeto foi desenvolvido uma biblioteca de cartões de filmes utilizando React. A biblioteca possui um cabeçalho e uma lista de cartões. Cada cartão representa um filme e uma imagem, título, subtítulo, sinopse e avaliação.
 
-  Nesse projeto, fui capaz de:
+  Além disso, nesse projeto, fui capaz de:
   - Saber a melhor forma para instalar um gerenciador de pacotes
   - Inicializar um projeto em **React**
   - Utilizar JSX no **React**
